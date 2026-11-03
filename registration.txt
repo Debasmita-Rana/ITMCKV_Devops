@@ -1,3 +1,0 @@
-this is a registration file
-All users can register here.
-
